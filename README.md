@@ -3,13 +3,13 @@
 ### App Description
 Hello!! here's my codepath prework App!!
 1. The frist button will change the label text to a random color 😄
-2. The second button will change the label and the background to a  random color 🤩
+2. The second button will change the label and the background to a random color 🤩
 3. The third button will set all colors to default 😎
 
 
 ### App Walk-though
 
-![](https://i.imgur.com/iYJDAGD.gif)
+![](https://i.imgur.com/i7oAavG.gif)
 
 
 
